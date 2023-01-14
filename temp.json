@@ -1,0 +1,23 @@
+[{
+    "name": "name",
+    "email": "email",
+    "password": "password",
+    "phone": "phone",
+    "admin": "admin"
+},
+
+{
+    "name": "name",
+    "email": "email",
+    "password": "password",
+    "phone": "phone",
+    "super_admin": "super_admin"
+},
+{
+    "name": "name",
+    "email": "email",
+    "password": "password",
+    "phone": "phone"
+   
+}
+]
